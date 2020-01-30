@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <!-- saved from url=(0024)https://rebeccabartels.github.io/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<!-- Global site tag (gtag.js) - Google Analytics -->
@@ -13,8 +13,7 @@
 	
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Rebecca Bartels - @ThatHackerGirl</title>
-
+	<title>Rebecca Bartelssssss - @ThatHackerGirl</title>
 
 	<!-- tab img -->
 	<link rel="icon" href="./ThatHackerGirl/favicon.ico" type="image/x-icon">
@@ -106,8 +105,8 @@
 							<h1>Hi, I'm Rebecca Bartels</h1>
 							<h3 id="text-rotator">
 								<div style="display: none;">Offensive Security Enthusiast</div>
-								<div style="display: none;">Software Engineer </div>
-								<div style="display: block; opacity: 0.684062;">Data Analyist </div>
+								<div style="display: none;">Software Engineer</div>
+								<div style="display: block; opacity: 0.684062;">Data Analyist</div>
 							</h3>
 						</div>
 					</div>
@@ -447,8 +446,6 @@
 	<script src="./ThatHackerGirl/jquery.flexslider-min.js"></script>
 	<script src="./ThatHackerGirl/aos.js"></script>
 	<script src="./ThatHackerGirl/app.js"></script>
-	 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-  </script>
 
 	<!-- main js -->
 	<script src="./ThatHackerGirl/main.js"></script>
