@@ -382,7 +382,7 @@
 
 				<div class="col-md-8 col-md-offset-2">
 					<!-- changes your email domain in mailer.php (assets/php/) -->
-					<form id="ajax-contact" name="contact" method="post" action="https://thathackergirl.herokuapp.com/ThatHackerGirl/assets/php/mailer.php">
+					<form id="ajax-contact" name="contact" method="post" action="https://thathackergirl.herokuapp.com/ThatHackerGirl/assets/php/mailer.php">  //this works 
 						
 						<div class="row">
 							<div class="col-md-6 col-sm-6">
