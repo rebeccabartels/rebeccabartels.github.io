@@ -59,7 +59,7 @@
 			<div class="row">
 				<div class="col-sm-3">
 					<div class="logo">
-						<a class="smoth-scroll" href="https://rebeccabartels.github.io/#home">Rebecca.</a>
+						<a class="smoth-scroll" href="https://thathackergirl.herokuapp.com/#home">Rebecca.</a>
 					</div>
 				</div>
 
@@ -77,10 +77,10 @@
 
 							<div class="navbar-collapse collapse">
 								<ul class="nav navbar-nav navbar-right">
-									<li><a class="smoth-scroll" href="https://rebeccabartels.github.io/#about">About</a></li>
-									<li><a class="smoth-scroll" href="https://rebeccabartels.github.io/#services">Skills</a></li>
-									<li><a class="smoth-scroll" href="https://rebeccabartels.github.io/#portfolio">Certifications</a></li>
-									<li><a class="smoth-scroll" href="https://rebeccabartels.github.io/#contact">Contact</a></li>
+									<li><a class="smoth-scroll" href="https://thathackergirl.herokuapp.com/#about">About</a></li>
+									<li><a class="smoth-scroll" href="https://thathackergirl.herokuapp.com/#services">Skills</a></li>
+									<li><a class="smoth-scroll" href="https://thathackergirl.herokuapp.com/#portfolio">Certifications</a></li>
+									<li><a class="smoth-scroll" href="https://thathackergirl.herokuapp.com/#contact">Contact</a></li>
 								</ul>
 							</div>
 						</div>
@@ -110,7 +110,7 @@
 							</h3>
 						</div>
 					</div>
-					<a class="smoth-scroll" href="https://rebeccabartels.github.io/#about"><i class="fa fa-angle-down arrow lift"></i></a>
+					<a class="smoth-scroll" href="https://thathackergirl.herokuapp.com/#about"><i class="fa fa-angle-down arrow lift"></i></a>
 				</div>
 			</div>
 		</div>
