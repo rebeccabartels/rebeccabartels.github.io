@@ -13,7 +13,7 @@
 	
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Rebecca Bartelssssss - @ThatHackerGirl</title>
+	<title>rebeccabartels</title>
 
 	<!-- tab img -->
 	<link rel="icon" href="./ThatHackerGirl/favicon.ico" type="image/x-icon">
