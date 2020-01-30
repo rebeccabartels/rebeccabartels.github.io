@@ -445,7 +445,7 @@
 	<script src="./ThatHackerGirl/jquery.flexslider-min.js"></script>
 	<script src="./ThatHackerGirl/aos.js"></script>
 	<script src="./ThatHackerGirl/app.js"></script>
-	<script src="./ThatHackerGirl/js"></script>
+	
 
 	<!-- main js -->
 	<script src="./ThatHackerGirl/main.js"></script>
