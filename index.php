@@ -106,8 +106,8 @@
 							<h1>Hi, I'm Rebecca Bartels</h1>
 							<h3 id="text-rotator">
 								<div style="display: none;">Offensive Security Enthusiast</div>
-								<div style="display: none;">Software Engineer</div>
-								<div style="display: block; opacity: 0.684062;">Data Analyist</div>
+								<div style="display: none;">Software Engineer </div>
+								<div style="display: block; opacity: 0.684062;">Data Analyist </div>
 							</h3>
 						</div>
 					</div>
