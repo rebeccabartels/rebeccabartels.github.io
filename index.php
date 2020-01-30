@@ -1,25 +1,3 @@
-<?php
-    $mail = new PHPMailer();  // create a new object
-    $mail->IsSMTP(); // enable SMTP
-    $mail->SMTPDebug = 0;  // debugging: 1 = errors and messages, 2 = messages only
-    $mail->SMTPAuth = true;  // authentication enabled
-    $mail->SMTPSecure = 'ssl'; // secure transfer enabled REQUIRED for Gmail
-    $mail->Host = 'smtp.gmail.com';
-    $mail->Port = 465; 
-    $mail->Username = 'myemail@gmail.com';  
-    $mail->Password = "mypasswordhere";           
-    $mail->SetFrom($from, $from_name);
-    $mail->Subject = $subject;
-    $mail->Body = $body;
-    $mail->AddAddress('myemail@gmail.com');
-    if(!$mail->Send()) {
-        $error = 'Mail error: '.$mail->ErrorInfo; 
-        return false;
-    } else {
-        $error = 'Message sent!';
-        return true;
-    }
-?>
 <!-- saved from url=(0024)https://rebeccabartels.github.io/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<!-- Global site tag (gtag.js) - Google Analytics -->
