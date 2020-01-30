@@ -2,7 +2,7 @@
 <!-- saved from url=(0024)https://rebeccabartels.github.io/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script type="text/javascript" async="" src="./ThatHackerGirl/analytics.js"></script><script async="" src="./ThatHackerGirl/js"></script>
+	<script type="text/javascript" async="" src="./analytics.js"></script><script async="" src="./js"></script>
 	<script>
 		window.dataLayer = window.dataLayer || [];
 		function gtag(){dataLayer.push(arguments);}
@@ -382,7 +382,7 @@
 
 				<div class="col-md-8 col-md-offset-2">
 					<!-- changes your email domain in mailer.php (assets/php/) -->
-					<form id="ajax-contact" name="contact" method="post" action="https://thathackergirl.herokuapp.com/ThatHackerGirl/assets/php/mailer.php">  //this works 
+					<form id="ajax-contact" name="contact" method="post" action="https://thathackergirl.herokuapp.com/ThatHackerGirl/assets/php/mailer.php">  
 						
 						<div class="row">
 							<div class="col-md-6 col-sm-6">
