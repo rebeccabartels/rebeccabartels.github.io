@@ -1,13 +1,21 @@
+
+
 <!-- saved from url=(0024)https://rebeccabartels.github.io/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script type="text/javascript" async="" src="./analytics.js"></script><script async="" src="./js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-155347973-1"></script>
 	<script>
 		window.dataLayer = window.dataLayer || [];
 		function gtag(){dataLayer.push(arguments);}
 		gtag('js', new Date());
 		gtag('config', 'UA-155347973-1');
 	</script>
+
+	<!-- meta -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Marco Santonastaso - Personal Website</title>
 	<!-- meta -->
 	
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -445,7 +453,6 @@
 	<script src="./ThatHackerGirl/jquery.flexslider-min.js"></script>
 	<script src="./ThatHackerGirl/aos.js"></script>
 	<script src="./ThatHackerGirl/app.js"></script>
-	
 
 	<!-- main js -->
 	<script src="./ThatHackerGirl/main.js"></script>
